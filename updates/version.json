@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "released_at": "2026-11-03T11:22:52+09:00",
+  "version": "2.1.2",
+  "released_at": "2026-11-03T11:39:22+09:00",
   "patch_url": "https://raw.githubusercontent.com/hosokawanagaokasangyou-dotcom/diskguard-drivemover/main/updates/update_patch.zip",
-  "notes": "・起動時に確認ダイアログなしで最新バージョンへ自動アップデートする機能を搭載\n・表の全列をマウスドラッグで自由リサイズ＆自動保存に対応\n・UIレイアウトを初期状態（1366x768最適値）に戻す機能を追加\n・Outlookデータ(.pst)や仮想ディスク(.wim/.vhdx)等の安全保護ロジック強化",
-  "sha256": "e63c93bfcd21d0722f5669d7a3b5503c2813e999fd8c332d74f7b5c014c6fa64",
-  "size": 138457
+  "notes": "・スキャン途中でも判明したフォルダ・巨大ファイル・面積マップ・KPIをリアルタイムにUIへ順次表示\n・スキャン中断時も途中まで判明した結果をそのまま表示・操作可能に対応\n・起動時に確認ダイアログなしで最新バージョンへ自動アップデートする機能を搭載",
+  "sha256": "48fe3c2e6e4c7ef2f74c410394b119980b79cad9b25d65e86e8cc1cb2cf7a533",
+  "size": 140240
 }
