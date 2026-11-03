@@ -1,0 +1,8 @@
+{
+  "version": "2.1.0",
+  "released_at": "2026-11-03T11:10:39+09:00",
+  "patch_url": "https://raw.githubusercontent.com/hosokawanagaokasangyou-dotcom/diskguard-drivemover/main/updates/update_patch.zip",
+  "notes": "・表の全列をマウスドラッグで自由リサイズ＆自動保存に対応\n・UIレイアウトを初期状態（1366x768最適値）に戻す機能を追加\n・Outlookデータ(.pst)や仮想ディスク(.wim/.vhdx)等の安全保護ロジック強化\n・GitHubリポジトリ連携の自動アップデート機能を搭載",
+  "sha256": "8f118f5f311e2c3174d09500213a826ba4cf32071863b2e6a329b47ac96be85f",
+  "size": 167143
+}
